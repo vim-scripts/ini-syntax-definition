@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2475
+
+This is a syntax definition for configuration files in the ini format, common on Windows and for software written in Python. This includes the popular version-control system Mercurial, whose hgrc configuration files are ini files.
+
+Mercurial repository for this syntax definition: http://bitbucket.org/boredzo/vim-ini-syntax/
+
+
